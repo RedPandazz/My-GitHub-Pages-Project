@@ -2,7 +2,7 @@
 **I'm Dante, a UCSD student majoring in computer science.** 
 >My passion lies in full-stack development!
 
-![My image](images/IMG-20220925-WA0000.jpg)
+![My image](images/IMG-20191219-WA0000.jpg)
 
 ## Preferred Programming Languages
 1. Javascript/Typescript
